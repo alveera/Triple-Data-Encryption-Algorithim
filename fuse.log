@@ -1,0 +1,59 @@
+Running: F:\xilinxnew\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Des_Top_isim_beh.exe -prj E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Des_Top_beh.prj work.Des_Top work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Xor_Permutation.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Xor_Operation.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Sbox_Rom8.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Sbox_Rom7.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Sbox_Rom6.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Sbox_Rom5.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Sbox_Rom4.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Sbox_Rom3.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Sbox_Rom2.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Sbox_Rom1.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Sbox_Output.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Reg32.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Permuted_Choice2.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Permutation.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Key_Generation.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Expansion_Permutation.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Swap.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Round1.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Key_Top.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Inverse_Initial_Permutation.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Initial_Permutation.v" into library work
+Analyzing Verilog file "E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Des_Top.v" into library work
+Analyzing Verilog file "F:/xilinxnew/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module Initial_Permutation
+Compiling module Key_Generation
+Compiling module Permuted_Choice2
+Compiling module Key_Top
+Compiling module Expansion_Permutation
+Compiling module Xor_Operation
+Compiling module Sbox_Rom1
+Compiling module Sbox_Rom2
+Compiling module Sbox_Rom3
+Compiling module Sbox_Rom4
+Compiling module Sbox_Rom5
+Compiling module Sbox_Rom6
+Compiling module Sbox_Rom7
+Compiling module Sbox_Rom8
+Compiling module Sbox_Output
+Compiling module Permutation
+Compiling module Xor_Permutation
+Compiling module Reg32
+Compiling module Round1
+Compiling module Swap
+Compiling module Inverse_Initial_Permutation
+Compiling module Des_Top
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 16 sub-compilation(s) to finish...
+Compiled 23 Verilog Units
+Built simulation executable E:/Constructive Stuff/DES_VLSI_Sim-20161101T143805Z/DES_VLSI_Sim/Des_Top_isim_beh.exe
+Fuse Memory Usage: 27588 KB
+Fuse CPU Usage: 1265 ms
